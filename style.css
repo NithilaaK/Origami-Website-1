@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(rgb(155, 228, 241), rgb(45, 154, 226));
+}
+img {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+}
+h1{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+}
+h2{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+}
+h3{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+}
+p{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+li{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+a{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
